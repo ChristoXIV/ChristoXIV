@@ -3,7 +3,7 @@
 I'm Christopher Cotte
 - *Currently :* Fourth-year student of robotics engineering school, ESIREM Dijon (FRANCE)
 - *Previously :* 2-years undergraduate degree in Networks and Telecommunication, University of Clermont-Ferrand (FRANCE)
-- 
+
 <!--
 **ChristoXIV/ChristoXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
